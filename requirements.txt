@@ -1,0 +1,7 @@
+python.jsonrpc
+python.dateutil
+pymongo
+pika
+requests
+redis
+sklearn
